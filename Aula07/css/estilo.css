@@ -1,0 +1,14 @@
+.primeiraDiv{
+    border: 5px solid black;
+    background: red;
+    width: 200px;
+    height: 200px;
+    font-family: Arial;
+    margin: 10px auto;
+    padding: auto;
+}
+
+.primeiraDiv:hover{
+    width: 600px;
+    background: white;
+}
